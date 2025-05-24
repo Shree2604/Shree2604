@@ -6,9 +6,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/m-shreeraj)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue)](https://kaggle.com/m-shreeraj)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://instagram.com/_.mr_raj._18)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red)](https://www.youtube.com/@SHREERAJM)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@shreeraj260405)
 
 

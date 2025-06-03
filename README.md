@@ -80,18 +80,18 @@ I'm **ShreeRaj Mummidivarapu**, a passionate Computer Science student at **IIIT 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=shree2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shree2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shree2604&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shree2604&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="100%" />
 </td>
 </tr>
 <tr>
 <td width="30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shree2604&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shree2604&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shree2604&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shree2604&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </td>
 </tr>
 </table>

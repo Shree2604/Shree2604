@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Engineer+%26+ML+Research+Enthusiast;IIIT+Sri+City+CSE+Student+(8.29+CGPA);Building+Autonomous+AI+Systems+with+LangGraph;Club+Lead+at+Epoch+AI/ML+Club&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Engineer+%26+ML+Research+Enthusiast;IIIT+Sri+City+CSE+Student+(8.30+CGPA);Building+Autonomous+AI+Systems+with+LangGraph;Club+Lead+at+Epoch+AI/ML+Club&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
 
 </div>
 

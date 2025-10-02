@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Engineer+%26+ML+Research+Enthusiast;IIIT+Sri+City+CSE+Student+(8.30+CGPA);Building+Autonomous+AI+Systems+with+LangGraph;Club+Lead+at+Epoch+AI/ML+Club&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Engineer+%26+ML+Research+Enthusiast;IIIT+Sri+City+CSE+Student+(8.30+CGPA);Building+Autonomous+AI+Systems+with+LangGraph;AI+Dev+Intern+@+Vinfinet+Technologies;Ex-Generative+AI+Intern+@+ValueDX;ML+Research+Intern+@+IIIT+SriCity;Freelance+AI/ML+Project+Associate;Skilled+in+LangChain,+LangGraph,+Hugging+Face;Experienced+in+Fine-tuning+Phi-3,+LLaMA,+Qwen;Applied+PPO,+DPO,+RLHF+for+LLM+Alignment;Projects:+MCQ+Wizard+%7C+Lyric+Loom+%7C+Badminton+AI;Published+Author+in+Springer+and+IEEE;Ex-Club+Lead+@+Epoch+AI/ML+Club;Sponsorship+Lead+@+Abhisarga+Fest;NSS+Design+Lead+%7C+5000%2B+Community+Reach;Certified+in+ML+%26+DL+(Andrew+Ng)+%26+LangChain+Academy&font=Fira%20Code&center=true&width=1200&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
+
 
 </div>
 
@@ -19,57 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-shreeraj)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreeraj260405)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shree.xai.dev@gmail.com)
-
-</div>
-
-
-
-## **About Me**
-
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding animation" width="300"/>
-
-```typescript
-const shreerajMummidivarapu = {
-    pronouns: "He/Him",
-    education: "IIIT Sri City | CSE | 8.29 CGPA",
-    currentRole: "Agentic AI Intern at ValueDX",
-    expertise: ["LangGraph", "Autonomous AI Systems", "ML/IoT Research"],
-    techStack: ["Python", "TensorFlow", "PyTorch", "React", "Node.js"],
-    achievements: ["87.4% Disease Prediction Accuracy", "Club Lead at Epoch"],
-    currentlyBuilding: ["Healthcare Automation", "AI Workflows"],
-    certifications: ["ML Specialization (Andrew Ng)", "Deep Learning Specialization"],
-    askMeAbout: ["Agentic AI", "LangGraph", "Healthcare AI", "Full-Stack Dev"],
-    funFact: "I build AI agents that can think and act autonomously! 🤖"
-};
-```
-
-
-I'm **ShreeRaj Mummidivarapu**, a passionate Computer Science student at **IIIT Sri City** (8.29 CGPA) specializing in **Agentic AI** and **Machine Learning Research**. Worked as an **Agentic AI Intern at ValueDX**, where I design and optimize autonomous AI systems using cutting-edge frameworks like **LangGraph**.
-
-
-## 🛠️ **Technical Arsenal**
-
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 

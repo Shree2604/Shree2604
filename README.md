@@ -18,7 +18,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shree-portfolio-ten.vercel.app/)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1ABlPpAS8l-z7La-15iLGhOhVHak2ZTS5?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-shreeraj)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreeraj260405)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shree144)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shree.xai.dev@gmail.com)
 
 </div>

@@ -10,6 +10,8 @@ Building the RL environments that turn research into real-world intelligence.
 
 <br/>
 <br/>
+<img src="https://komarev.com/ghpvc/?username=shree2604&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<br/>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-ff6b6b?style=for-the-badge)](https://shree-portfolio-ten.vercel.app/)
@@ -25,13 +27,6 @@ Building the RL environments that turn research into real-world intelligence.
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=shree2604&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shree2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
 <br/>
 
 <sub>🤖 Passionate about making AI acessible to all • 🚀 Always learning • 💡 Building impactful solutions</sub>

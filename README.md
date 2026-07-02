@@ -1,55 +1,39 @@
-# 👋 Hello, I'm ShreeRaj Mummidivarapu!
-
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Agentic+AI+Engineer+%26+ML+Research+Enthusiast;IIIT+Sri+City+CSE+Student+(8.30+CGPA);Building+Autonomous+AI+Systems+with+LangGraph;AI+Dev+Intern+@+Vinfinet+Technologies;Ex-Generative+AI+Intern+@+ValueDX;ML+Research+Intern+@+IIIT+SriCity;Freelance+AI/ML+Project+Associate;Skilled+in+LangChain,+LangGraph,+Hugging+Face;Experienced+in+Fine-tuning+Phi-3,+LLaMA,+Qwen;Applied+PPO,+DPO,+RLHF+for+LLM+Alignment;Projects:+MCQ+Wizard+%7C+Lyric+Loom+%7C+Badminton+AI;Published+Author+in+Springer+and+IEEE;Ex-Club+Lead+@+Epoch+AI/ML+Club;Sponsorship+Lead+@+Abhisarga+Fest;NSS+Design+Lead+%7C+5000%2B+Community+Reach;Certified+in+ML+%26+DL+(Andrew+Ng)+%26+LangChain+Academy&font=Fira%20Code&center=true&width=1200&height=45&color=f75c7e&vCenter=true&size=22&pause=1000)
+# Hi, I'm Shreeraj Mummidivarapu 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI%2FML+Engineer+%7C+RL+%26+Post-Training;Building+Agentic+Systems+for+Healthcare+AI;IIIT+Sri+City+%E2%80%A2+CSE+%E2%80%A2+2022-2026&font=Fira+Code&center=true&width=600&height=40&color=F75C7E&vCenter=true&size=20&pause=1500)
 
-</div>
+Building the RL environments that turn research into real-world intelligence.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shree2604&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shree2604?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/shree2604?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 
-<div align="center">
+<br/>
+<br/>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-ff6b6b?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shree-portfolio-ten.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/drive/folders/1ABlPpAS8l-z7La-15iLGhOhVHak2ZTS5?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-ff6b6b?style=for-the-badge)](https://shree-portfolio-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-shreeraj)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shree144)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shree.xai.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeraj.m22@iiits.in)
 
-</div>
+<br/>
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RLHF](https://img.shields.io/badge/-RLHF%2FGRPO%2FPPO-FF6F00?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 **GitHub Analytics**
+<br/>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Shree2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shree2604&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" width="100%" />
-</td>
-</tr>
-<tr>
-<td width="30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shree2604&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" width="100%" />
-</td>
-<td width="50%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shree2604&theme=react-dark&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</td>
-</tr>
-</table>
-</div>
+<img src="https://komarev.com/ghpvc/?username=shree2604&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
+<br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Shree2604&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+<br/>
 
+<sub>🤖 Passionate about making AI acessible to all • 🚀 Always learning • 💡 Building impactful solutions</sub>
 
-<div align="center">
-<sub>🤖 Passionate about AI • 🚀 Always learning • 💡 Building impactful solutions</sub>
 </div>
